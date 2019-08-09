@@ -4,6 +4,7 @@ Index
 - [Restrict access to authorized users](#restrict_users)
 - [Restrict access to group members](#restrict_group)
 - [Add TLS/HTTPS support](#https_support)
+- [What's next (Nginx)](#whats_next)
 
 
 ## Install <a name="install"></a>
@@ -202,3 +203,9 @@ Hit the Https endpoint to verify it
 curl https://localhost:443 -k
 hello from example.com in apache
 ```
+
+
+## What's next (Nginx) <a name="whats_next></a>
+I have another [Nginx demo](https://github.com/hasakura12/nginx-demo) (reverse proxy, load balancing, Nginx basics, HTTPs support, and more).
+
+Also [AWS EKS (Elastic Kubernetes Service) demo](https://github.com/hasakura12/aws-eks-demo).
