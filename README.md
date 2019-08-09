@@ -205,7 +205,7 @@ hello from example.com in apache
 ```
 
 
-## What's next (Nginx) <a name="whats_next></a>
+## What's next (Nginx and AWS EKS) <a name="whats_next"></a>
 I have another [Nginx demo](https://github.com/hasakura12/nginx-demo) (reverse proxy, load balancing, Nginx basics, HTTPs support, and more).
 
 Also [AWS EKS (Elastic Kubernetes Service) demo](https://github.com/hasakura12/aws-eks-demo).
